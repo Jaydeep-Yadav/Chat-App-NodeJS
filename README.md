@@ -1,2 +1,2 @@
-# Chat-App-NodeJS MERN STACK
+# Chat-App-NodeJS MERN
 Initial ReadMe
